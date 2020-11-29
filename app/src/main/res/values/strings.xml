@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">Breaking Bad Exploper </string>
+  <string name="about">Search</string>
+  <string name="enter_search_data">Make a search entry</string>
+  <string name="no_internet">No Internet</string>
+  <string name="unknown_error_key">There was a problem!</string>
+  <string name="attribution_message">This is app retrieves a list of hospitals from a remote endpoint, which you can
+    search locally on the device.</string>
+  <string name="search_for_an_actor">Search for an actor</string>
+<string name="long_text">
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</string>
+</resources>
