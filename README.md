@@ -1,4 +1,4 @@
-# Sensyne Test For Android
+# GAN Test For Android
 
 
 
